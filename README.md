@@ -10,6 +10,7 @@ This repo contains all theroy and code related to data structures and algorithms
 - [Dictionary](https://github.com/qaiseralikhan/data-structures-and-algorithms-python/blob/master/data-structures/dictionary.py)
 - [Stack](https://github.com/qaiseralikhan/data-structures-and-algorithms-python/blob/master/data-structures/stack.py)
 - [Queue](https://github.com/qaiseralikhan/data-structures-and-algorithms-python/blob/master/data-structures/queue.py)
+- [LinkedList](https://github.com/qaiseralikhan/data-structures-and-algorithms-python/blob/master/data-structures/linked-list.py)
 
 ## Authors
 
